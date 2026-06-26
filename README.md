@@ -44,7 +44,7 @@ After exporting the structured data from SQL, the data was processed in Google S
 
 ##  How to Review This Project
 
-1. **SQL Source Code:** Check the [`cohort_retention_query.sql`](./sql/your_script_name.sql) file to see the exact queries used for cohort grouping and date handling.
-2. **Interactive Google Sheet:** You can view the final interactive dashboards and cohort tables here: [👉 Link to your Google Sheets Document] *(Make sure the link sharing is set to "Anyone with the link can view")*
+1. **SQL Source Code:** Check the (./sql/your_script_name.sql) file to see the exact queries used for cohort grouping and date handling.
+2. **Interactive Google Sheet:** You can view the final interactive dashboards and cohort tables here: 👉(https://docs.google.com/spreadsheets/d/1LYdVrzwpGVagOAAXMXG5ilEShlRp756Ec3iMuFyfMkA/edit?usp=sharing)
 
 ---
