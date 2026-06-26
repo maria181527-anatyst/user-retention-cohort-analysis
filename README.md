@@ -33,10 +33,12 @@ After exporting the structured data from SQL, the data was processed in Google S
 
 ---
 
-##  Key Business Insights (Samples - Update with your findings!)
-* **Promo vs. Organic Retention:** Users acquired via promo campaigns show a high initial conversion rate but experience a [X]% sharper drop in Month 2 compared to organic users. This indicates a potential "one-time buyer" issue that needs targeted re-engagement.
-* **Critical Drop-off Point:** Across all cohorts, the biggest drop-off happens between **Month 1 and Month 2** (averaging a [X]% decline). Retaining users past Month 2 stabilizes their long-term lifecycle.
-* **Top Performing Channels:** Acquisition Channel [Name, e.g., Paid Ads/Referral] yielded cohorts with the highest long-term retention stability.
+## 💡 Key Business Insights
+
+* **Organic Cohorts Outperform Promo in Volume & Retention:** During the analyzed period, organic traffic channels not only attracted a larger volume of users but also demonstrated significantly higher loyalty. Organic users show a remarkably stable Retention Rate, staying above **73% in Month 1** and maintaining at least **74% by Month 3**.
+* **The March Peak Anomalies:** The March organic cohort deserves special attention, as its retention reached an outstanding **94%**. This indicates either a highly successful product update, strong seasonal demand, or an exceptionally high-quality audience segment that requires deeper behavioral analysis.
+* **Promo Campaigns Accumulate "One-Time" Users:** In contrast, users acquired through discounts and promotional campaigns show poor engagement. Their retention drops sharply immediately within the first few months. This pattern suggests a high customer acquisition cost (CAC) for low-value users who churn immediately after consuming the promo offer.
+* **Strategic Business Recommendations:** From a business perspective, organic users are currently the primary growth driver—they cost nothing to acquire and remain active significantly longer. Management should urgently review the current paid marketing strategy and promo mechanics, as they are currently acquiring low-retention segments and burning marketing budget.
 
 ---
 
