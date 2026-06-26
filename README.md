@@ -23,7 +23,6 @@ The initial phase focused on querying the main database to structure raw user ac
 * Identified user registration dates and grouped them into monthly start cohorts.
 * Developed custom SQL logic (using date functions and regular/custom expressions) to normalize and convert timestamp formats into consistent monthly periods.
 * Aggregated the total number of active users per cohort, segmented by month and **Promo Status**.
-* *The complete SQL script can be found in the `/sql` directory of this repository.*
 
 ### Phase 2: Data Visualization & Insights (Google Sheets)
 After exporting the structured data from SQL, the data was processed in Google Sheets to simulate an executive-level presentation.
