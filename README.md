@@ -33,7 +33,7 @@ After exporting the structured data from SQL, the data was processed in Google S
 
 ---
 
-## 💡 Key Business Insights
+## Key Business Insights
 
 * **Organic Cohorts Outperform Promo in Volume & Retention:** During the analyzed period, organic traffic channels not only attracted a larger volume of users but also demonstrated significantly higher loyalty. Organic users show a remarkably stable Retention Rate, staying above **73% in Month 1** and maintaining at least **74% by Month 3**.
 * **The March Peak Anomalies:** The March organic cohort deserves special attention, as its retention reached an outstanding **94%**. This indicates either a highly successful product update, strong seasonal demand, or an exceptionally high-quality audience segment that requires deeper behavioral analysis.
@@ -45,6 +45,6 @@ After exporting the structured data from SQL, the data was processed in Google S
 ##  How to Review This Project
 
 1. **SQL Source Code:** Check the [cohort_retention_query.sql](Code/cohort_retention_query.sql) file to see the exact queries used for cohort grouping and date handling.
-2. **Interactive Google Sheet:** You can view the final interactive dashboards and cohort tables here: 👉(https://docs.google.com/spreadsheets/d/1LYdVrzwpGVagOAAXMXG5ilEShlRp756Ec3iMuFyfMkA/edit?usp=sharing)
+2. **Interactive Google Sheet:** You can view the final interactive dashboards and cohort tables here: (https://docs.google.com/spreadsheets/d/1LYdVrzwpGVagOAAXMXG5ilEShlRp756Ec3iMuFyfMkA/edit?usp=sharing)
 
 ---
