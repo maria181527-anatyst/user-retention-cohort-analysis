@@ -38,6 +38,8 @@ After exporting the structured data from SQL, the data was processed in Google S
 * **The March Peak Anomalies:** The March organic cohort deserves special attention, as its retention reached an outstanding **94%**. This indicates either a highly successful product update, strong seasonal demand, or an exceptionally high-quality audience segment that requires deeper behavioral analysis.
 * **Promo Campaigns Accumulate "One-Time" Users:** In contrast, users acquired through discounts and promotional campaigns show poor engagement. Their retention drops sharply immediately within the first few months. This pattern suggests a high customer acquisition cost (CAC) for low-value users who churn immediately after consuming the promo offer.
 * **Strategic Business Recommendations:** From a business perspective, organic users are currently the primary growth driver—they cost nothing to acquire and remain active significantly longer. Management should urgently review the current paid marketing strategy and promo mechanics, as they are currently acquiring low-retention segments and burning marketing budget.
+  
+<img width="1587" height="2245" alt="Promotional User Acquisition Cohort Table" src="https://github.com/user-attachments/assets/e1c10d51-1b70-4d4e-be77-09ce88e87eb5" />
 
 ---
 
